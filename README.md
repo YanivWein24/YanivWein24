@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ```javascript
-                                           console.log("Hi there! I'm Yaniv Weinshtein 👋");
+                                   console.log("Hi there! I'm Yaniv Weinshtein 👋");
 ```
                                                                         
 ## 📖 About me:
