@@ -12,12 +12,15 @@ You can click the Preview link to take a look at your changes.
 ```javascript
                                    console.log("Hi there! I'm Yaniv Weinshtein 👋");
 ```
-                                                                        
+
+<br>                                                                        
+
 ## 📖 About me:
 * 🎓 Practical Engineer in Electronics
 * 👨‍💻 Currently learning fullstack development 
 * 💪 Ambitious and passionate to learn new technologies and grow as a developer
 <!-- * 💻 Looking for a role as Full-Stack developer to absorb knowledge -->
+
 <br/>
 
 ## 🛠 Languages and Tools:
@@ -32,8 +35,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/></a>
+
 <br >
- ##  Connect with me:
+
+##  Connect with me:
 [<img align="left" alt="Yaniv Weinshtein | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yaniv-weinshtein/)
 [<img align="left" alt="Yaniv Weinshtein | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />](mailto:yanivwein22@gmail.com)
 
