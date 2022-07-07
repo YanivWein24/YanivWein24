@@ -1,22 +1,9 @@
-<!-- - 👋 Hi, I’m @YanivWein24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there! I'm Yaniv Weinshtein ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-<!---
-YanivWein24/YanivWein24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-```javascript
-                                   console.log("Hi there! I'm Yaniv Weinshtein 👋");
-```
-
-<br>                                                                        
+## A Full-Stack Developer
 
 ## 📖 About me:
-* 👨‍💻 Full-Stack Developer specializing in MERN stack web applications
+* 👨‍💻 Specializing in MERN stack web applications
 * 🎓 Practical Engineer in Electronics 
 * 💪 Ambitious and passionate to learn new technologies and constantly grow as a developer!
 <!-- * 💻 Looking for a role as Full-Stack developer to absorb knowledge -->
@@ -42,10 +29,15 @@ You can click the Preview link to take a look at your changes.
 
 <br >
 
-##  🔗 Connect with me:
+## 🔗 Connect with me:
 [<img align="left" alt="Yaniv Weinshtein | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/yaniv-weinshtein/)
 [<img align="left" alt="Yaniv Weinshtein | Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />](mailto:yanivwein22@gmail.com)
+<b>
+<br />  
+<br /> 
+<a href="http://www.github.com/yanivwein24"><img src="https://github-readme-stats.vercel.app/api?username=yanivwein24&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yanivwein24's GitHub stats" /></a>
 
+<a href="https://github.com/yanivwein24"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanivwein24&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
