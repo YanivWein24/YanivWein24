@@ -45,8 +45,8 @@
 <br />  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yanivwein24&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanivwein24&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"></img>
+![](https://github-readme-stats.vercel.app/api?username=yanivwein24&theme=dark&hide_border=false&include_all_commits=false&count_private=true) <br />  
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanivwein24&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"></img>
 <br />  
 <br />  
 
