@@ -31,14 +31,13 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 <br />  
 <a href="https://www.passportjs.org/"> <img src="https://cdn.glitch.me/project-avatar/0d184ee3-fd8d-4b94-acf4-b4e686e57375.png" alt="Passport.js" width="40" height="40"/> </a>
-<a href="https://oauth.net/"> <img src="https://net.cloudinfrastructureservices.co.uk/wp-content/uploads/2021/12/OAuth-2.png" alt="Oauth2.0" width="40" height="40"/> </a>
+<a href="https://oauth.net/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/oauth-logo-png-transparent.png" alt="Oauth2.0" width="40" height="40"/> </a>
 
 
 ### Misc:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br />  
 <a href="https://jestjs.io/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" width="40" height="40"/></a>
 <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>  
