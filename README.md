@@ -56,7 +56,8 @@
 <br />
 <br />
   
-![Snake animation](https://github.com/AdrianoEscarabote/AdrianoEscarabote/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://user-images.githubusercontent.com/97472180/204596242-36fd5f48-a667-478e-b3d4-ab4c963d7f46.svg)
+<!-- https://platane.github.io/snk/  create animated snake svg-->
 <!--
 // [![](https://visitcount.itsvg.in/api?id=yanivwein24&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
