@@ -50,9 +50,9 @@
 <br />  
 
 # 🔗 Connect with me:
-[<img align="left" alt="Yaniv Weinshtein | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/yaniv-weinshtein/)
-[<img align="left" alt="Portfolio" width="40px" src="https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/world-circle-blue-512.png" />](https://yaniv-weinshtein.netlify.app/)
-[<img align="left" alt="Yaniv Weinshtein | Gmail" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />](mailto:yanivwein22@gmail.com)
+[<img align="left" alt="Yaniv Weinshtein | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/yaniv-weinshtein/)
+[<img align="left" alt="Portfolio" width="50px" src="https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/world-circle-blue-512.png" />](https://yaniv-weinshtein.netlify.app/)
+[<img align="left" alt="Yaniv Weinshtein | Gmail" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />](mailto:yanivwein22@gmail.com)
 <br />
 <br />
   
