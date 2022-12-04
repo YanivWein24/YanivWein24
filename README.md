@@ -37,6 +37,7 @@
 ### Misc:
 ![Jest](https://img.shields.io/badge/jest-c03b13?style=for-the-badge&logo=jest&badgeColor=010101)
 ![Circle-CI](https://img.shields.io/badge/circle_ci-323232?style=for-the-badge&logo=circleci&badgeColor=010101)
+![ES-Lint](https://img.shields.io/badge/es--lint-4A2EC4?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-323232?style=for-the-badge&logo=git&badgeColor=010101)
