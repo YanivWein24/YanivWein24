@@ -46,8 +46,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yanivwein24&theme=dark&hide_border=false&include_all_commits=false&count_private=true) <br />  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanivwein24&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<br />  
 <br />  
 
 # 🔗 Connect with me:
