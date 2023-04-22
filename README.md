@@ -33,11 +33,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  
-![JWT](https://img.shields.io/badge/jwt-black?style=for-the-badge&color=%23f3f3f3)
+![Prisma](https://img.shields.io/badge/prisma-black.svg?style=for-the-badge&logo=prisma&logoColor=white)  
+![JWT](https://img.shields.io/badge/json--web--token-black?style=for-the-badge&color=%23f3f3f3)
 ![Passport.js](https://img.shields.io/badge/Passport.js-%2320232a?style=for-the-badge&logo=passport&badgeColor=010101)
 ![Oauth 2.0](https://img.shields.io/badge/Oauth2.0-black?style=for-the-badge)
-
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ### Misc:
 ![Jest](https://img.shields.io/badge/jest-c03b13?style=for-the-badge&logo=jest&badgeColor=010101)
