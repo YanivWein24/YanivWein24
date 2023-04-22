@@ -61,7 +61,7 @@
 <br />
 <br />
   
-![Snake animation](https://user-images.githubusercontent.com/97472180/210134189-8ba85ffa-4c40-49fa-a281-5a793030e51a.svg)
+![Snake animation](https://user-images.githubusercontent.com/97472180/233784976-88466ffb-dee6-43ab-a3aa-43e76208b6dd.svg)
 <!-- https://platane.github.io/snk/  create animated snake svg-->
 <!--
 // [![](https://visitcount.itsvg.in/api?id=yanivwein24&icon=0&color=0)](https://visitcount.itsvg.in)
