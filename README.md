@@ -3,11 +3,11 @@
 ## A Full-Stack Developer
 
 # 📖 About me:
-* 👨‍💻 Specializing in MERN stack web applications
-* 🎓 Practical Engineer in Electronics 
-* 👨‍🔧 Former Technician in the israely navy
-* 💪 Ambitious and passionate to learn new technologies and constantly grow as a developer!
-<!-- * 💻 Looking for a role as Full-Stack developer to absorb knowledge -->
+* 👨‍💻 Specializing in React, Node.js, MongoDB, and TypeScript
+* 🎓 Practical Engineer in electronics 
+* 👨‍🔧 Former technician in the israeli Navy
+* 🐶 Dogs person
+* 📚 Currently learning Next.js
 
 <br/>
 
