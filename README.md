@@ -6,8 +6,8 @@
 * 👨‍💻 Specializing in React, Node.js, MongoDB, and TypeScript
 * 🎓 Practical Engineer in electronics 
 * 👨‍🔧 Former technician in the Israeli Navy
+* 💼 Currently working as a full-stack developer at Socialo
 * 🐶 Dogs person
-* 📚 Currently learning Next.js
 
 <br/>
 
@@ -54,7 +54,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=yanivwein24&theme=dark&hide_border=false&include_all_commits=false&count_private=true) <br />  
 <br />  
 
-# Let's Connect <img src="https://github.com/YanivWein24/Portfolio/assets/97472180/6b7340f4-1e20-43bd-81e7-2a27f1da79a4" width="80">
+# Let's Connect: <img src="https://github.com/YanivWein24/Portfolio/assets/97472180/6b7340f4-1e20-43bd-81e7-2a27f1da79a4" width="80">
 [<img align="left" alt="Yaniv Weinshtein | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/yaniv-weinshtein/)
 [<img align="left" alt="Portfolio" width="50px" src="https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/world-circle-blue-512.png" />](https://yaniv-weinshtein.netlify.app/)
 [<img align="left" alt="Yaniv Weinshtein | Gmail" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />](mailto:yanivwein22@gmail.com)
