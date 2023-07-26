@@ -2,16 +2,16 @@
 
 ## A Full-Stack Developer
 
-# 📖 About me:
+# <img src="https://github.com/YanivWein24/Portfolio/assets/97472180/506765a2-4b12-42f3-b7fa-dae81f6f149c" width="30"> About me:
 * 👨‍💻 Specializing in React, Node.js, MongoDB, and TypeScript
 * 🎓 Practical Engineer in electronics 
-* 👨‍🔧 Former technician in the israeli Navy
+* 👨‍🔧 Former technician in the Israeli Navy
 * 🐶 Dogs person
 * 📚 Currently learning Next.js
 
 <br/>
 
-# 💻 Tech Stack:
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Tech Stack:
 ### Front-End:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -50,11 +50,11 @@
 <br />  
 <br />  
 
-# 📊 GitHub Stats:
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yanivwein24&theme=dark&hide_border=false&include_all_commits=false&count_private=true) <br />  
 <br />  
 
-# 🔗 Connect with me:
+# Let's Connect <img src="https://github.com/YanivWein24/Portfolio/assets/97472180/6b7340f4-1e20-43bd-81e7-2a27f1da79a4" width="80">
 [<img align="left" alt="Yaniv Weinshtein | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />](https://www.linkedin.com/in/yaniv-weinshtein/)
 [<img align="left" alt="Portfolio" width="50px" src="https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes/128/world-circle-blue-512.png" />](https://yaniv-weinshtein.netlify.app/)
 [<img align="left" alt="Yaniv Weinshtein | Gmail" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />](mailto:yanivwein22@gmail.com)
