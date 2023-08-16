@@ -42,10 +42,11 @@
 ### Misc:
 ![Jest](https://img.shields.io/badge/jest-c03b13?style=for-the-badge&logo=jest&badgeColor=010101)
 ![ES-Lint](https://img.shields.io/badge/es--lint-4A2EC4?style=for-the-badge&logo=eslint&logoColor=white)
-![Circle-CI](https://img.shields.io/badge/circle--ci-323232?style=for-the-badge&logo=circleci&badgeColor=010101)
+![GitHub-Actions](https://img.shields.io/badge/github--actions-black?style=for-the-badge&logo=githubactions&logoColor=white)
+![Circle-CI](https://img.shields.io/badge/circle--ci-white?style=for-the-badge&logo=circleci&logoColor=161616)
+![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-323232?style=for-the-badge&logo=git&badgeColor=010101)
 
 <br />  
 <br />  
