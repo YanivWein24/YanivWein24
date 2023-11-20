@@ -3,10 +3,11 @@
 ## A Full-Stack Developer
 
 # <img src="https://github.com/YanivWein24/Portfolio/assets/97472180/506765a2-4b12-42f3-b7fa-dae81f6f149c" width="30"> About me:
+* 💼 1 Year of professional work experience
+* 💻 Currently working as a full-stack developer at [Socialo](https://www.socialo.app)
 * 👨‍💻 Specializing in React, Node.js, MongoDB, and TypeScript
 * 🎓 Practical Engineer in electronics 
 * 👨‍🔧 Former technician in the Israeli Navy
-* 💼 Currently working as a full-stack developer at Socialo
 * 🐶 Dogs person
 
 <br/>
@@ -53,6 +54,7 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yanivwein24&theme=dark&hide_border=false&include_all_commits=false&count_private=true) <br />  
+![](https://github-readme-streak-stats.herokuapp.com/?user=yanivwein24&theme=dark&hide_border=false)<br/>
 <br />  
 
 # Let's Connect: <img src="https://github.com/YanivWein24/Portfolio/assets/97472180/6b7340f4-1e20-43bd-81e7-2a27f1da79a4" width="80">
@@ -67,4 +69,3 @@
 <!--
 // [![](https://visitcount.itsvg.in/api?id=yanivwein24&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
-
