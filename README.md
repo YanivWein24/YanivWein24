@@ -3,9 +3,9 @@
 ## A Full-Stack Developer
 
 # <img src="https://github.com/YanivWein24/Portfolio/assets/97472180/506765a2-4b12-42f3-b7fa-dae81f6f149c" width="30"> About me:
-* 💼 1 Year of professional work experience
-* 💻 Currently working as a full-stack developer at [Socialo](https://www.socialo.app)
 * 👨‍💻 Specializing in React, Node.js, MongoDB, and TypeScript
+* 💼 1.5 Years of professional work experience
+* 📊 2K contributions on GitHub
 * 🎓 Practical Engineer in electronics 
 * 👨‍🔧 Former technician in the Israeli Navy
 * 🐶 Dogs person
@@ -23,7 +23,6 @@
 ![Formik](https://img.shields.io/badge/Formik-%230051cd.svg?style=for-the-badge&logo=formik&logoColor=white)  
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/material--ui-white.svg?style=for-the-badge&logo=mui&logoColor=0076ed)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,6 +39,7 @@
 ![Oauth 2.0](https://img.shields.io/badge/Oauth2.0-black?style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
+
 ### Misc:
 ![Jest](https://img.shields.io/badge/jest-c03b13?style=for-the-badge&logo=jest&badgeColor=010101)
 ![ES-Lint](https://img.shields.io/badge/es--lint-4A2EC4?style=for-the-badge&logo=eslint&logoColor=white)
@@ -47,6 +47,7 @@
 ![Circle-CI](https://img.shields.io/badge/circle--ci-white?style=for-the-badge&logo=circleci&logoColor=161616)
 ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%2385ea2d.svg?style=for-the-badge&logo=swagger&logoColor=%23333333)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br />  
