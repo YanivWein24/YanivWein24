@@ -4,7 +4,7 @@
 
 # <img src="https://github.com/YanivWein24/Portfolio/assets/97472180/506765a2-4b12-42f3-b7fa-dae81f6f149c" width="30"> About me:
 * 👨‍💻 Specializing in React, Node.js, MongoDB, and TypeScript
-* 💼 2 Years of professional work experience
+* 💼 3+ Years of professional work experience
 * 📊 2K contributions on GitHub
 * 🎓 Practical Engineer in electronics 
 * 👨‍🔧 Former technician in the Israeli Navy
